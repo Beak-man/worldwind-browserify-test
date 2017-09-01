@@ -1,0 +1,26 @@
+{
+  "name": "worldwind-browserify-test",
+  "version": "0.1.0",
+  "description": "\"Test of Web WorldWind npm package with Browserify bundler\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beak-man/worldwind-browserify-test.git"
+  },
+  "keywords": [
+    "WorldWind",
+    "Browserify"
+  ],
+  "author": "Miguel Del Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beak-man/worldwind-browserify-test/issues"
+  },
+  "homepage": "https://github.com/Beak-man/worldwind-browserify-test#readme",
+  "dependencies": {
+    "@nasaworldwind/worldwind": "file:nasaworldwind-worldwind-0.0.1.tgz"
+  }
+}
